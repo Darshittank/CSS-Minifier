@@ -37,11 +37,6 @@ A modern, fast, and lightweight CSS minifier built with pure JavaScript.
 
 ---
 
-## 📸 Preview
-
-
----
-
 ## 🛠️ How to Use
 
 1. Paste your CSS
