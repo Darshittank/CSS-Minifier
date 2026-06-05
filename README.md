@@ -3,7 +3,9 @@
 A modern, fast, and lightweight CSS minifier built with pure JavaScript.
 
 ## 🚀 Live Demo
-👉 <a href="https://darshittank.github.io/CSS-Minifier/" target="_blank">[CSS-Minifier](https://darshittank.github.io/CSS-Minifier/){:target="_blank"}</a>
+<a href="https://darshittank.github.io/CSS-Minifier/" target="_blank" rel="noopener noreferrer">
+   🎯 Launch CSS-Minifier (opens new tab)
+</a>
 
 ---
 
