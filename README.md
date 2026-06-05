@@ -3,7 +3,7 @@
 A modern, fast, and lightweight CSS minifier built with pure JavaScript.
 
 ## 🚀 Live Demo
-👉 https://darshittank.github.io/CSS-Minifier/
+👉 https://darshittank.github.io/CSS-Minifier/ {:target="_blank"}
 
 ---
 
