@@ -39,7 +39,7 @@ A modern, fast, and lightweight CSS minifier built with pure JavaScript.
 
 ## 📸 Preview
 
-![Preview](assets/screenshot_1)
+![Preview](assets/screenshot_1.png)
 
 ---
 
