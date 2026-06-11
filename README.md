@@ -7,6 +7,11 @@ A modern, fast, and lightweight CSS minifier built with pure JavaScript.
 
 ---
 
+[![GitHub Stars](https://img.shields.io/github/stars/Darshittank/CSS-Minifier?logo=github)](https://github.com/Darshittank/CSS-Minifier/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Darshittank/CSS-Minifier?logo=github)](https://github.com/Darshittank/CSS-Minifier/network)
+[![GitHub Issues](https://img.shields.io/github/issues/Darshittank/CSS-Minifier?logo=github)](https://github.com/Darshittank/CSS-Minifier/issues)
+[![MIT License](https://img.shields.io/badge/license-MIT-green?logo=opensourceinitiative)](https://github.com/Darshittank/CSS-Minifier/blob/main/LICENSE)
+
 ## ✨ Features
 
 - Minifies CSS with custom rules
